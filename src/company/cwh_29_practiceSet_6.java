@@ -1,3 +1,5 @@
+package company;
+
 public class cwh_29_practiceSet_6 {
     public static void main(String[] args) {
 
@@ -47,7 +49,7 @@ public class cwh_29_practiceSet_6 {
             for (int j = 0; j < mat1[i].length; j++) {
                 System.out.format("Setting value for i = %d and j = %d\n", i, j);
                 result[i][j] = mat1[i][j] + mat2[i][j];
-                
+
             }
             for (i = 0; i < mat1.length; i++) {
                 for (int j = 0; j < mat1[i].length; j++) {

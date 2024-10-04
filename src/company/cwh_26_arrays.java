@@ -1,3 +1,5 @@
+package company;
+
 public class cwh_26_arrays {
     public static void main(String[] args) {
         int[] arr = new int[5];

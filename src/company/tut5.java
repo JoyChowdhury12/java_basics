@@ -1,7 +1,9 @@
+package company;
+
 import java.util.Scanner;
 
-public  class tut5{
-    public  static  void main (String [] args){
+public class tut5 {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("\nEnter the number of 5 subjects");
         System.out.println("English : ");
@@ -18,11 +20,11 @@ public  class tut5{
         System.out.println("Biology : ");
         float e = sc.nextFloat();
 
-        float sum = a+b+c+d+e;
+        float sum = a + b + c + d + e;
         System.out.println("Your total marks is : ");
         System.out.println(sum);
         float total = 500;
-        float perc = (sum/total)*100;
+        float perc = (sum / total) * 100;
         System.out.println(perc);
     }
 }

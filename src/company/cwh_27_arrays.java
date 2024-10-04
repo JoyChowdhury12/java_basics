@@ -1,3 +1,5 @@
+package company;
+
 public class cwh_27_arrays {
     public static void main(String[] args) {
 //        float[] arr1 = {12.1f, 34.2f, 56.3f, 78.4f, 90.5f};

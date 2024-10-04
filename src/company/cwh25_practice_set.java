@@ -1,3 +1,5 @@
+package company;
+
 public class cwh25_practice_set {
     public static void main(String[] args) {
 //        int n = 5;

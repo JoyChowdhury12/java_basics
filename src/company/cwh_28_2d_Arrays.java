@@ -1,3 +1,5 @@
+package company;
+
 public class cwh_28_2d_Arrays {
     public static void main(String[] args) {
         int[] marks;

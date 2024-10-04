@@ -1,3 +1,5 @@
+package company;
+
 public class CWH_12_PS2 {
 
 //    public static void main(String[] args) {
